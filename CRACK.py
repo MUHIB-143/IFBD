@@ -9,7 +9,7 @@ if bitt=="64bit":
     time.sleep(2)
     import MX.muhib
 
-elae:
+else:
     print('\nYOUR DEVICE 32 BIT NOT SUPPORT')
 #---------------------------------------------------------#
 #                    THIS TOOL OWNED BY
