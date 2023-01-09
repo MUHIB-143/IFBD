@@ -11,8 +11,12 @@ if bitt=="64bit":
  
         main()
 
-else:
-    print('\nYOUR DEVICE 32 BIT NOT SUPPORT')
+if bitt=="32bit":
+    os.system('clear');print('[!] Your Device is 32 bit');time.sleep(1);print('\n\n[!] Your Python Version :');time.sleep(1);os.system('python --version')
+    time.sleep(2)
+    import MXD import main
+ 
+        main()
 #---------------------------------------------------------#
 #                    THIS TOOL OWNED BY
 #                  • MUHIB-143 •
