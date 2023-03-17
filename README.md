@@ -21,7 +21,7 @@ pkg install git
 
 pip install rich
 
-rm -rf BDMC 
+rm -rf MXL
 
 git clone https://github.com/MUHIB-143/MXL 
 
@@ -29,4 +29,4 @@ git pull
 
 cd MXL
 
-python3 CRACK.py
+python3 CLONE.py
