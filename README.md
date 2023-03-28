@@ -29,4 +29,4 @@ git pull
 
 cd MXL
 
-python3 CLONE.py
+python M0.py
