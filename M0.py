@@ -1,2 +1,0 @@
-import MR
-MR.xyz()
