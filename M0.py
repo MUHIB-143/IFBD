@@ -1,1 +1,2 @@
-import M00.Main()
+import M00
+M00.Main()
