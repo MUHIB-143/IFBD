@@ -29,4 +29,4 @@ git pull
 
 cd MXL
 
-python M0.py
+python3 M0.py
