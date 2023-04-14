@@ -23,7 +23,7 @@ pip install rich
 
 rm -rf MXL
 
-git clone https://github.com/MUHIB-143/MXL 
+git clone --depth=1 https://github.com/MUHIB-143/MXL 
 
 git pull
 
