@@ -21,12 +21,12 @@ pkg install git
 
 pip install rich
 
-rm -rf MXL
+rm -rf IFBD
 
-git clone --depth=1 https://github.com/MUHIB-143/MXL 
+git clone --depth=1 https://github.com/MUHIB-143/IFBD 
 
 git pull
 
 cd MXL
 
-python3 M0.py
+python3 M-CRACK.py
