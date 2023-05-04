@@ -27,6 +27,6 @@ git clone --depth=1 https://github.com/MUHIB-143/IFBD
 
 git pull
 
-cd MXL
+cd IFBD
 
 python3 M-CRACK.py
