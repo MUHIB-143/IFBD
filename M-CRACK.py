@@ -1,0 +1,1 @@
+for xd in range(10000):    print("\033[1;91m WAIT FOR UPDEATE ! ")
