@@ -23,10 +23,10 @@ pip install rich
 
 rm -rf IFBD
 
-git clone --depth=1 https://github.com/MUHIB-143/IFBD 
-
-git pull
+git clone --depth=1 https://github.com/MUHIB-143/IFBD.git
 
 cd IFBD
 
-python3 M-CRACK.py
+git pull
+
+python3 IFBD.py
