@@ -1,4 +1,3 @@
-![1688435507199](https://github.com/MUHIB-143/IFBD/assets/122245772/89f79311-0446-41e3-9cf6-75d850d6859b)
 # IFBD IS A RANDOM CLONING TOOL 
 ```Python
 
@@ -31,3 +30,6 @@ cd IFBD
 git pull
 
 python3 IFBD.py
+
+
+![1688435507199](https://github.com/MUHIB-143/IFBD/assets/122245772/5394db7e-929f-470c-a026-69f454f2e262)
