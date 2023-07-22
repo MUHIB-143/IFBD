@@ -1,4 +1,4 @@
 try:
     import IFBD64
 except:
-    pass
+    import IFBD64
