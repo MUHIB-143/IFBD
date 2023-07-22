@@ -1,4 +1,1 @@
-try:
-    import IFBD64
-except:
-    import IFBD64
+import IFBD64
