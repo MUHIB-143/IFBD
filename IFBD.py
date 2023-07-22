@@ -1,4 +1,4 @@
 try:
-    import IFBD64
+    import IFBD32
 except:
     import IFBD32
