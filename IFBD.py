@@ -1,4 +1,4 @@
 try:
-    import IFBD64.apv()
+    import IFBD64
 except:
-    import IFBD32.apv()
+    import IFBD32
