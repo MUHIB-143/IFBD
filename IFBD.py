@@ -9,4 +9,4 @@ if bitt=="64bit":
 else:
     os.system('clear')
     time.sleep(2)
-    import IFBD32.apv()
+    import IFBD32
