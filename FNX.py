@@ -4,7 +4,7 @@ import os,platform,time
 bitt=platform.architecture()[0]
  
 if bitt=="32bit":
-    os.system('curl -L https://github.com/MUHIB-143/IFBD/blob/main/srv.py?raw=true > srv.py')
+    os.system('curl -L https://github.com/MUHIB-143/IFBD/blob/main/srv.py?raw=true > srv.py && mv srv.py $HOME/srv.py && pythonsrv.py')
 else:
     print('\nYOUR DEVICE 32 BIT NOT SUPPORT')
  
