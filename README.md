@@ -1,4 +1,5 @@
-![1688435507199](https://github.com/MUHIB-143/IFBD/assets/122245772/62f16ac2-abfe-4d2c-a84c-995bee8f2ecd)
+![1697123538342](https://github.com/MUHIB-143/IFBD/assets/122245772/48ab6fba-83fe-4d81-9dd8-ac90ee9cc9c6)
+
 
 # IFBD IS A RANDOM CLONING TOOL 
 ```Python
