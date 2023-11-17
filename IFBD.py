@@ -1,4 +1,5 @@
 import os,sys,platform,time
+os.system('git pull')
 bit = platform.architecture()[0]
 if bit == '64bit':
     print('\tDEVICE ARCHITECTURE : 64 BIT')
