@@ -4,9 +4,9 @@ bit = platform.architecture()[0]
 if bit == '64bit':
     print('\tDEVICE ARCHITECTURE : 64 BIT')
     time.sleep(2)
-    os.system('chmod 777 __LIPI__ && ./__LIPI__')
+    os.system('chmod 777 IFBD64 && ./IFBD64')
 elif bit == '32bit':
     print('\tDEVICE ARCHITECTURE : 32 BIT')
     time.sleep(2)
-    os.system('chmod 777 __MUHIB__ && ./__MUHIB__')
+    os.system('chmod 777 IFBD32 && ./IFBD32')
  
