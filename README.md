@@ -12,28 +12,38 @@ apt install python
 pkg update
 ```
 ```bash
-
 pkg upgrade
-
+```
+```bash
 pkg install python
-
+```
+```bash
 pip install requests
-
+```
+```bash
 pip install mechanize
-
+```
+```bash
 pip install bs4
-
+```
+```bash
 pkg install git
-
+```
+```bash
 pip install rich
-
+```
+```bash
 rm -rf IFBD
-
+```
+```bash
 git clone --depth=1 https://github.com/MUHIB-143/IFBD.git
-
+```
+```bash
 cd IFBD
-
+```
+```bash
 git pull
-
+```
+```bash
 python3 IFBD.py
-
+```
