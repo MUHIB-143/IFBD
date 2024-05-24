@@ -9,10 +9,10 @@ apt uninstall python
 apt install python
 ```
 ```bash
-pkg update
+pkg update && pkg upgrade 
 ```
 ```bash
-pkg upgrade
+pkg install curl
 ```
 ```bash
 pkg install python
