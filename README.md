@@ -2,7 +2,7 @@
 
 
 # IFBD IS A RANDOM CLONING TOOL 
-```Python
+```bash
 
 apt uninstall python
 
