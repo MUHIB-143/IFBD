@@ -3,12 +3,15 @@
 
 # IFBD IS A RANDOM CLONING TOOL 
 ```bash
-
 apt uninstall python
-
+```
+```bash
 apt install python
-
+```
+```bash
 pkg update
+```
+```bash
 
 pkg upgrade
 
@@ -33,5 +36,4 @@ cd IFBD
 git pull
 
 python3 IFBD.py
-
 
