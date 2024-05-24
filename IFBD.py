@@ -1,5 +1,5 @@
 import os
 import subprocess 
-subprocess.run(["pip","install","-r","requirement"])
+subprocess.run(["pip","install","-r","requirements"])
 subprocess.run(["chmod","777","run"])
 os.system("./run")
