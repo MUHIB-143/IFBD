@@ -1,7 +1,7 @@
 ![1697123538342](https://github.com/MUHIB-143/IFBD/assets/122245772/48ab6fba-83fe-4d81-9dd8-ac90ee9cc9c6)
 
 
-# IFBD IS A RANDOM CLONING TOOL 
+# IFBD INSTALLATION 
 ```bash
 apt uninstall python
 ```
