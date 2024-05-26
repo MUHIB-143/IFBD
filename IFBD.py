@@ -1,4 +1,4 @@
 import os
 import subprocess 
 subprocess.run(["pip","install","-r","requirements"])
-subprocess.run(["python3","-m","ifbd"])
+subprocess.run(["python3","ifbd"])
