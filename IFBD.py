@@ -1,4 +1,10 @@
 import os
-import requests
-print('hello world')
-print('''<div color="red"'> 12222 </div>''')
+import sys
+import time
+def slow(e):
+  for i in e + '\n':
+    sys.stdout.write(i)
+    sys.stdout.flush()
+    time.sleep(0.2)
+
+slow("hello world in the webpage using django")
