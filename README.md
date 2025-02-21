@@ -45,5 +45,8 @@ cd IFBD
 git pull
 ```
 ```bash
+chmod 777 IFBD
+```
+```bash
 ./IFBD
 ```
