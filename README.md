@@ -45,5 +45,5 @@ cd IFBD
 git pull
 ```
 ```bash
-python3 IFBD.py
+./IFBD
 ```
