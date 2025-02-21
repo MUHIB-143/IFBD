@@ -1,4 +1,2 @@
 #!/bin/bash
-pkg install python
-pip install bs4
-python3 -c "import scc"
+python3 -c "import muhib"
