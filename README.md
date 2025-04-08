@@ -10,7 +10,7 @@ IFBD is a lightweight tool designed for the installation and setup of Python-bas
 
 - **Simple Installation**: Easy-to-follow script for setting up your development environment.
 - **Cross-platform Setup**: Compatible with Linux-based systems and package management tools like `apt` and `pkg`.
-- **Dependency Management**: Automatically installs all required Python dependencies (`requests`, `mechanize`, `bs4`, etc.).
+- **Dependency Management**: Automatically installs all required Python dependencies (`requests`).
 - **Version Control**: Seamless integration with `git` for repository management.
   
 ## Installation
@@ -43,13 +43,9 @@ To get started with IFBD, simply follow these steps:
 
 4. **Install required packages**:
     ```bash
-    pkg install curl
+    pkg install git
     pkg install python
     pip install requests
-    pip install mechanize
-    pip install beautifulsoup4
-    pkg install git
-    pip install rich
     ```
 
 5. **Clone the IFBD repository**:
