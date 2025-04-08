@@ -28,12 +28,12 @@ To get started with IFBD, simply follow these steps:
 
 1. **Uninstall previous Python installations**:
     ```bash
-    sudo apt uninstall python
+    apt uninstall python
     ```
 
 2. **Install Python**:
     ```bash
-    sudo apt install python
+    apt install python
     ```
 
 3. **Update and upgrade your system**:
