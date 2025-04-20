@@ -1,3 +1,10 @@
+In IFBD tool used UA's apk : 
+# UAX App
+Download the latest version of the UAX Android app:
+
+[![Download](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/MUHIB-143/IFBD/releases/download/uax_apk/UAX.apk)
+
+
 ![1697123538342](https://github.com/MUHIB-143/IFBD/assets/122245772/48ab6fba-83fe-4d81-9dd8-ac90ee9cc9c6)
 
 # IFBD - Installation Framework for Binary Distributions
